@@ -2,7 +2,9 @@ export default function App(){
 
 }
 
-function logo(){
+function Logo(){
+
+  return <h1>Far Away</h1>
 
 }
 
